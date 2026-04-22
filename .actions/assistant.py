@@ -491,3 +491,5 @@ if __name__ == "__main__":
     import jsonargparse
 
     jsonargparse.CLI(AssistantCLI, as_positional=False)
+
+if not handling such request find possible fix for distribution 
